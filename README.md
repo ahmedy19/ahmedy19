@@ -9,7 +9,7 @@
 
 # 💫 About Me
 ⚡ Passionate Computer Scientist.<br>
-⚡ MSc. Big Data Analytics and Management, Loading ... <br>
+⚡ MSc. Big Data Analytics and Management.<br>
 
 <br>
 
